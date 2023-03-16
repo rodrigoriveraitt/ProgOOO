@@ -12,7 +12,7 @@ En programación, se conocen como paradigmas de programación a los métodos usa
 
 La programación orientada a objetos se basa en el concepto de crear un modelo del problema de destino en sus programas. Creación del primer lenguaje orientado a objetos, SmallTalk por Alan Kay en Xerox PARC.
  
-
+## Definicion abstraccion 
 En programación, una abstracción es una manera de reducir la complejidad y permitir un diseño e implementación más eficientes en sistemas de software complejos.
 
 Encapsulamiento lo entiendo como una forma de juntar datos o métodos. 
