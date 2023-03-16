@@ -1,4 +1,5 @@
 # PardigmaOO
+## Paradigma
 Definición de Paradigma en el contexto de lenguajes de programación.
 Definición de Programación Orientada a Objetos, ¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron? 
 Define con tus palabras el concepto de abstracción, ¿Por qué se considera fundamental en programación? 
