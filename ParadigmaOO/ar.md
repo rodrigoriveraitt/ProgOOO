@@ -6,7 +6,7 @@ Define con tus palabras el concepto de abstracción, ¿Por qué se considera fun
 Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar.
 Describe con tus palabras el concepto de herencia e ilustra el concepto con imágenes.
 
-
+## Definicion de Programacion Orientada a Objetas
 En programación, se conocen como paradigmas de programación a los métodos usados para realizar determinadas tareas o proyectos. Un paradigma de programación es un modelo básico de diseño y desarrollo de programas, que permite producir programas con unas directrices específicas,
 
 
@@ -18,4 +18,6 @@ En programación, una abstracción es una manera de reducir la complejidad y per
 Encapsulamiento lo entiendo como una forma de juntar datos o métodos. 
 
 Herencia lo entiendo cómo crear clases clases que se ligan a otras clases
+
+
 
