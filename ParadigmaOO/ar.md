@@ -16,7 +16,7 @@ La programación orientada a objetos se basa en el concepto de crear un modelo d
 En programación, una abstracción es una manera de reducir la complejidad y permitir un diseño e implementación más eficientes en sistemas de software complejos.
 ## Definicion encapsulamiento
 Encapsulamiento lo entiendo como una forma de juntar datos o métodos. 
-
+## Definicion Herencia
 Herencia lo entiendo cómo crear clases clases que se ligan a otras clases
 
 
