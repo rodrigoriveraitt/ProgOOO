@@ -24,7 +24,7 @@ Herencia lo entiendo cómo crear clases clases que se ligan a otras clases
 
 ## Uml Diagrama De Clases
 
-El Lenguaje Unificado de Modelado (UML) fue creado para forjar un lenguaje de modelado visual común y semántica y sintácticamente rico para la arquitectura, el diseño y la implementación de sistemas de software complejos, tanto en estructura como en comportamiento. El UML fue creado por los tres desarrolladores James Rumbaugh, Grady Booch e Ivar Jacobson quienes decidieron fusionar varios lenguajes existentes en un estándar común. Los tres ya habían creado sus propios métodos de desarrollo de software orientado a objetos: el método Booch. la técnica de modelado de objetos (OMT). Algunas empresas que usan UML son la OMG. El UML tiene distintas herramientas ya que te permite trabajar de una manera mas visual y tener er tus proyectosncon una mejor estructura.
+El Lenguaje Unificado de Modelado (UML) fue creado para forjar un lenguaje de modelado visual común y semántica y sintácticamente rico para la arquitectura, el diseño y la implementación de sistemas de software complejos, tanto en estructura como en comportamiento. El UML fue creado por los tres desarrolladores James Rumbaugh, Grady Booch e Ivar Jacobson quienes decidieron fusionar varios lenguajes existentes en un estándar común. Los tres ya habían creado sus propios métodos de desarrollo de software orientado a objetos: el método Booch. la técnica de modelado de objetos (OMT). Algunas empresas que usan UML son la OMG. El UML tiene distintas herramientas ya que te permite trabajar de una manera mas visual y tener tus proyectos con una mejor estructura.
 
 
 
