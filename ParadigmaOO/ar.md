@@ -15,7 +15,7 @@ La programación orientada a objetos se basa en el concepto de crear un modelo d
 ## Definicion abstraccion 
 En programación, una abstracción es una manera de reducir la complejidad y permitir un diseño e implementación más eficientes en sistemas de software complejos. Considero que es importante en programacion la abstraccion ya que te permite trabajar de una manera mas eficiente.
 ## Definicion encapsulamiento
-Encapsulamiento lo entiendo como una forma de juntar datos o métodos. 
+Encapsulamiento lo entiendo como una forma de juntar datos o métodos. Pienso que es importante el encapsulamiento en programacion ya que te permite guardar datos que vas a utilizar en tu codigo despues. 
 ![](./img/poo-que-es-la-programacion-orientada-a-objetos-img1.png "encapsulamiento")
 ## Definicion Herencia
 Herencia lo entiendo cómo crear clases clases que se ligan a otras clases
