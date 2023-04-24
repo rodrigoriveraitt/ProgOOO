@@ -18,7 +18,7 @@ En programación, una abstracción es una manera de reducir la complejidad y per
 Encapsulamiento lo entiendo como una forma de juntar datos o métodos. Pienso que es importante el encapsulamiento en programacion ya que te permite guardar datos que vas a utilizar en tu codigo despues. 
 ![](./img/poo-que-es-la-programacion-orientada-a-objetos-img1.png "encapsulamiento")
 ## Definicion Herencia
-Herencia lo entiendo cómo crear clases clases que se ligan a otras clases
+Herencia lo entiendo cómo crear clases clases que se ligan a otras clases.Es el mecanismo por el cual una clase permite heredar las características (atributos y métodos) de otra clase. La herencia permite que se puedan definir nuevas clases basadas de unas ya existentes a fin de reutilizar el código, generando así una jerarquía de clases dentro de una aplicación.
 
 ![](./img/tipo-herencia.png "herencia")
 
